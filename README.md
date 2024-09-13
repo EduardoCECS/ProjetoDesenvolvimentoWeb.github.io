@@ -1,4 +1,4 @@
-**TECH EDUCA**[^1]
+**TECH EDUCA**
 
 
 Bem-vindo ao projeto Tech Educa!! 

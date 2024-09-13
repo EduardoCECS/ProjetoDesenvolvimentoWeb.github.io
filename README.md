@@ -58,6 +58,7 @@ start index.html # No Windows
 
 
 **Contribuição**
+
 Se você deseja contribuir para este projeto, siga os seguintes passos:
 1. Faça um fork do repositório.
 2. Crie uma branch para sua feature ou correção (git checkout -b minha-feature).

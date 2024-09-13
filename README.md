@@ -1,14 +1,14 @@
-** TECH EDUCA
+**TECH EDUCA**
 
 Bem-vindo ao projeto Tech Educa!! 
 
 Nosso país tem visto cada vez mais evasões escolares e por isso decidimos criar a TECH EDUCA, com o objetivo de aumentar cada vez mais a taxa de frequência escolar dos alunos. E para deixar os alunos mais atentos e aumentar cada vez mais o objetivo de ir bem nas matérias, criamos a aba de prêmios, onde os estudantes que atingirem uma certa quantidade de pontuação, poderão retirar o seu prêmio. Desenvolvido como trabalho final para o curso de Desenvolvimento de Sistemas para Web no Instituto Federal de Brasília - Campus Brasília, com orientação da professora Kadidja Oliveira.
 
-Descrição
+**Descrição**
 A TechEduca é uma empresa inovadora com um propósito claro: transformar a educação no Distrito Federal através da tecnologia. Nossa missão é aumentar a taxa de frequência escolar dos alunos da rede pública para mais de 80% até o final do ano letivo. Para alcançar esse objetivo, estamos desenvolvendo uma plataforma interativa e motivacional que visa engajar os estudantes, incentivando a participação ativa através de prêmios e recompensas.
 
 
-Funcionalidades
+**Funcionalidades**
 - Tech Educa: Site feito para aulas da educação.
 - Tela de Login: Interface para autenticação de usuários.
 - Tela de Cadastro: Interface para cadastro caso o aluno não tenha conta.
@@ -16,7 +16,7 @@ Funcionalidades
 
 
 
-Tecnologias Utilizadas
+**Tecnologias Utilizadas**
 - HTML5: Estrutura do conteúdo da página 
 
 - CSS: Estilização e design responsivo
@@ -27,7 +27,7 @@ Tecnologias Utilizadas
 
 - Node JS - Está hospedado  
 
-Como usar
+**Como usar**
 Para usar o Tech Educa , siga estas etapas:
 1. Clone o Repositório
 copie o repositório para sua máquina local com o comando:git clone https://github.com/SEU_USUARIO/tech-educa.git
@@ -42,7 +42,7 @@ start index.html # No Windows
 5. Ou, basta arrastar e soltar o arquivo index.html no navegador.
 
 
-Estrutura do Projeto
+**Estrutura do Projeto**
 - index.html: Página principal do site.
 - frequência.html: Página onde registra as frequências 
 - prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
@@ -56,14 +56,15 @@ Estrutura do Projeto
 - Bootstrap-5.0.2-dist/: Contém os arquivos de estilização.
 
 
-Contribuição
+**Contribuição**
 Se você deseja contribuir para este projeto, siga os seguintes passos:
 1. Faça um fork do repositório.
 2. Crie uma branch para sua feature ou correção (git checkout -b minha-feature).
 3. Faça commit de suas alterações (git commit -am 'Adiciona nova feature').
 4. Envie para o controle remoto (git push origin minha-feature).
 5. Abra um pull request no GitHub.
-Contato
+
+**Contato**
 Para mais informações, você pode entrar em contato com os desenvolvedores:
 - Carlos Eduardo - carlos58838@estudante.ifb.edu.br
 - Cauan de Sousa - cauan5208@gmail.com

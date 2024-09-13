@@ -70,4 +70,5 @@ Para mais informações, você pode entrar em contato com os desenvolvedores:
 - Cauan de Sousa - cauan5208@gmail.com
 - Matheus Santos - matheuslimatx20@gmail.com
 - Lucas Feitosa - lucasfeitosa087@gmail.com
+
   Muito obrigado!

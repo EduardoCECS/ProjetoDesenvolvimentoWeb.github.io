@@ -48,7 +48,7 @@ Para usar o Tech Educa , siga estas etapas:
 - prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
 - sobre.html: Página onde descreve a empresa.
 - login.html: Página onde o aluno faz o login.
-- cadastro.html: Página onde o aluno faz o cadastro caso não tenha cadastro no site.
+- cadastro.html: Página onde o aluno faz o cadastro caso não tenha conta no site.
 - estilogeral.css/: Contém os arquivos de estilo em geral.
 - a.js/: Código javascript onde estão os códigos para servidor localhost.
 - j.js/: Código javascript onde estão os scripts das funcionalidades das páginas.

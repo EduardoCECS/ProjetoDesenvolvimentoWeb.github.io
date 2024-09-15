@@ -66,6 +66,7 @@ Se você deseja contribuir para este projeto, siga os seguintes passos:
 5. Abra um pull request no GitHub.
 
 **Contato**
+
 Para mais informações, você pode entrar em contato com os desenvolvedores:
 - Carlos Eduardo - carloscarvalhoxp@gmail.com
 - Cauan de Sousa - cauan5208@gmail.com

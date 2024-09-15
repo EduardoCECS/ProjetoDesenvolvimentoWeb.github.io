@@ -36,8 +36,7 @@ Para usar o Tech Educa , siga estas etapas:
 2. Descompacte o arquivo ZIP em seu computador. Isso criará uma pasta com os arquivos do projeto.
 3. Coloque a pasta descompactada na sua área de trabalho para facilitar o acesso.
 4. Abra o Windows PowerShell (ou outra interface de linha de comando).
-5. No PowerShell (ou outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
-   
+5. No PowerShell (ou outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:                                                                             
   . cd desktop
   . cd dw
   . node a.js

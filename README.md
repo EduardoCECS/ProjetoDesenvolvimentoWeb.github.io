@@ -37,10 +37,11 @@ Para usar o Tech Educa , siga estas etapas:
 3. Coloque a pasta descompactada na sua área de trabalho para facilitar o acesso.
 4. Abra o Windows PowerShell (ou outra interface de linha de comando).
 5. No PowerShell (ou outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
+   
   . cd desktop
   . cd dw
   . node a.js
-6. Após executar esses comandos, o PowerShell fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
+7. Após executar esses comandos, o PowerShell fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
 
 **Estrutura do Projeto**
 - index.html: Página principal do site.

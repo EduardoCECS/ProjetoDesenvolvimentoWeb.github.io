@@ -30,6 +30,7 @@ A TechEduca é uma empresa inovadora com um propósito claro: transformar a educ
 - Node JS/Express - Onde está hospedado 
 
 **Como usar**
+
 Para usar o Tech Educa , siga estas etapas:
 1. Baixe o arquivo ZIP do GitHub.
 2. Descompacte o arquivo ZIP em seu computador. Isso criará uma pasta com os arquivos do projeto.

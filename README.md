@@ -27,22 +27,19 @@ A TechEduca é uma empresa inovadora com um propósito claro: transformar a educ
 
 - Bootstrap - Estilização e conteúdo da página
 
-- Node JS - Está hospedado  
+- Node JS/Express - Onde está hospedado 
 
 **Como usar**
 Para usar o Tech Educa , siga estas etapas:
-1. Clone o Repositório
-copie o repositório para sua máquina local com o comando:git clone https://github.com/SEU_USUARIO/tech-educa.git
-2. Navegue até o Diretório do Projeto
-use o terminal para acessar o diretório do projeto clonado:
-cd tech-educa
-3. Abra o Arquivo index.html
-Você pode abrir o arquivo index.html diretamente em seu navegador para iniciar o projeto. Se você estiver utilizando um editor de texto ou IDE, abra o arquivo index.html e visualize o projeto localmente:
-open index.html  # No macOS
-start index.html # No Windows
-4. xdg-open index.html # No Linux
-5. Ou, basta arrastar e soltar o arquivo index.html no navegador.
-
+1. Baixe o arquivo ZIP do GitHub.
+2. Descompacte o arquivo ZIP em seu computador. Isso criará uma pasta com os arquivos do projeto.
+3. Coloque a pasta descompactada na sua área de trabalho para facilitar o acesso.
+4. Abra o Windows PowerShell (ou outra interface de linha de comando).
+5. No PowerShell (ou outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
+  . cd desktop
+  . cd dw
+  . node a.js
+6. Após executar esses comandos, o PowerShell fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
 
 **Estrutura do Projeto**
 - index.html: Página principal do site.
@@ -50,10 +47,10 @@ start index.html # No Windows
 - prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
 - sobre.html: Página onde descreve a empresa.
 - login.html: Página onde o aluno faz o login.
+- cadastro.html: Página onde o aluno faz o cadastro caso não tenha cadastro no site.
 - estilogeral.css/: Contém os arquivos de estilo em geral.
-- cadastro.html: Página onde o aluno faz o cadastro caso não tenha login.
 - a.js/: Código javascript onde estão os códigos para servidor localhost.
-- j.js/: Código javascript onde estão os scripts das funcionalidades de cada página.
+- j.js/: Código javascript onde estão os scripts das funcionalidades das páginas.
 - Img/: Contém as imagens utilizadas no projeto.
 - Bootstrap-5.0.2-dist/: Contém os arquivos de estilização.
 

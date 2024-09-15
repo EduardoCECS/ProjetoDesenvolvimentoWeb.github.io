@@ -36,6 +36,7 @@ google.accounts.id.prompt((notification) => {
     }
   }); 
 };
+
 function formatCPF(value) {
     value = value.replace(/\D/g, '');
     value = value.replace(/(\d{3})(\d)/, '$1.$2');

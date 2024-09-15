@@ -68,7 +68,7 @@ Se você deseja contribuir para este projeto, siga os seguintes passos:
 
 **Contato**
 Para mais informações, você pode entrar em contato com os desenvolvedores:
-- Carlos Eduardo - carlos58838@estudante.ifb.edu.br
+- Carlos Eduardo - carloscarvalhoxp@gmail.com
 - Cauan de Sousa - cauan5208@gmail.com
 - Matheus Santos - matheuslimatx20@gmail.com
 - Lucas Feitosa - lucasfeitosa087@gmail.com

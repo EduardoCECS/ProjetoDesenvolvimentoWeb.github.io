@@ -40,7 +40,7 @@ Para usar o Tech Educa , siga estas etapas:
   . cd desktop                                                                                                                                                                             
   . cd ProjetoDesenvolvimentoWeb.github.io-main                                                                                                                                            
   . node a.js
-6. Após executar esses comandos, o PowerShell fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
+6. Após executar esses comandos, o PowerShell (ou em outra interface) fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
 
 **Estrutura do Projeto**
 - index.html: Página principal do site.

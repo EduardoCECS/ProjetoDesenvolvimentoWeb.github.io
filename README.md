@@ -46,12 +46,9 @@ Para usar o Tech Educa , siga estas etapas:
 4. Abra o Windows PowerShell (ou outra interface de linha de comando).
 5. No PowerShell (ou em outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
    ```
-   
-  . cd desktop                                                                                                                                                                       
-  . cd ProjetoDesenvolvimentoWeb.github.io-main                                                                                                                                            
-  . node a.js 
-  
-  ```
+     . cd desktop                                                                                                                                                                       
+     . cd ProjetoDesenvolvimentoWeb.github.io-main                                                                                                                                         
+     . node a.js 
 7. Após executar esses comandos, o PowerShell (ou em outra interface) fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

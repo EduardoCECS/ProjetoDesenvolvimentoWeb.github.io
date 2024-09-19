@@ -1,9 +1,11 @@
-**TECH EDUCA**
+#**TECH EDUCA**
 
 
 Bem-vindo ao projeto Tech Educa!! 
 
 Nosso país tem visto cada vez mais evasões escolares e por isso decidimos criar a TECH EDUCA, com o objetivo de aumentar cada vez mais a taxa de frequência escolar dos alunos. E para deixar os alunos mais atentos e aumentar cada vez mais o objetivo de ir bem nas matérias, criamos a aba de prêmios, onde os estudantes que atingirem uma certa quantidade de pontuação, poderão retirar o seu prêmio. Desenvolvido como trabalho final para o curso de Desenvolvimento de Sistemas para Web no Instituto Federal de Brasília - Campus Brasília, com orientação da professora Kadidja Oliveira.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Descrição**
 
@@ -11,7 +13,10 @@ A TechEduca é uma empresa inovadora com um propósito claro: transformar a educ
 
 
 **Funcionalidades**
-- Tech Educa: Site feito para aulas da educação.
+- Tela do Index: Página inicial, onde o usuário tem seu primeiro contato.
+- Tela do Sobre: Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
+- Tela de Frequência: Página para registrar as frequências.
+- Tela de Prêmios: Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.
 - Tela de Login: Interface para autenticação de usuários.
 - Tela de Cadastro: Interface para cadastro caso o aluno não tenha conta.
 - Design Responsivo: Adaptável a diferentes tamanhos de tela para uma melhor experiência do usuário.
@@ -46,14 +51,14 @@ Para usar o Tech Educa , siga estas etapas:
 - index.html: Página principal do site.
 - frequência.html: Página onde registra as frequências 
 - prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
-- sobre.html: Página onde descreve a empresa.
+- sobre.html: Página onde descreve sobre nós.
 - login.html: Página onde o aluno faz o login.
 - cadastro.html: Página onde o aluno faz o cadastro caso não tenha conta no site.
 - estilogeral.css/: Contém os arquivos de estilo em geral.
 - a.js/: Código javascript onde estão os códigos para servidor localhost.
 - j.js/: Código javascript onde estão os scripts das funcionalidades das páginas.
 - Img/: Contém as imagens utilizadas no projeto.
-- Bootstrap-5.0.2-dist/: Contém os arquivos de estilização.
+- Bootstrap-5.0.2-dist/: Contém os arquivos de estilização e funcionalidades.
 
 
 **Contribuição**
@@ -73,4 +78,4 @@ Para mais informações, você pode entrar em contato com os desenvolvedores:
 - Matheus Santos - matheuslimatx20@gmail.com
 - Lucas Feitosa - lucasfeitosa087@gmail.com
 
-  Muito obrigado!
+Muito obrigado!

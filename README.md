@@ -14,7 +14,7 @@ A **TechEduca** é uma empresa inovadora com um propósito claro: transformar a 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Funcionalidades**
-- **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato.
+- **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato com o site.
 - **Tela do Sobre:** Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
 - **Tela de Frequência:** Página para registrar as frequências.
 - **Tela de Prêmios:** Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.

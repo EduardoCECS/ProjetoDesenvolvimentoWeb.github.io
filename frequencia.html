@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>TECH EDUCA</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descrição da Página">
+    <meta name="keywords" content="Desenvolvimento de Sistemas, Educação">
+    <meta name="author" content="Matheus Santos Lima, Lucas Feitosa, Carlos Eduardo, Cauan Bispo">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="estilogeral.css">
+    <link rel="icon" type="image/webp" href="/img/logotopo.webp" />
+    <title>Global Tech</title>
+</head>
+<body>
+<header>
+    <div class="header-content">
+        <img id="logo" src="img/logo.webp" alt="Logo da página">
+        <h1 class="h1-titulo">Bem-vindo(a) ao <strong>TECH EDUCA</strong></h1>
+    </div>
+</header>
+<br>
+<hr>
+<br>
+<nav>
+    <a id="anav" href="index.html"><img id="imgnav" src="img/casa.webp" alt="Home"> Home</a>
+    <a id="anav" href="sobre.html"><img id="imgnav" src="img/empresa.webp" alt="Sobre"> Sobre</a>
+    <a id="anav" href="frequencia.html"><img id="imgnav" src="img/grafico.webp" alt="Frequência"> Frequência</a>
+    <a id="anav" href="premios.html"><img id="imgnav" src="img/premios.webp" alt="Prêmios"> Prêmios</a>
+    <a id="anav" href="login.html"><img id="imgnav" src="img/login.webp" alt="Login"> Login</a>
+</nav>
+<br>
+<hr>
+    <br>
+    <h2 id="titulo2">Seja Bem Vindo a Página de Frequências</h2>
+    <br>
+
+    <form id="frequenciaForm">
+        <table>
+            <thead>
+                <tr>
+                    <th>Registro de Frequência</th>
+                    <th>Turma/Grupo</th>
+                    <th>Disciplina</th>
+                    <th>Diretoria</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="text" id="frequencia" required></td>
+                    <td><input type="text" id="turma" required></td>
+                    <td><input type="text" id="disciplina" required></td>
+                    <td><input type="text" id="diretoria" required></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div style="text-align: center;">
+            <input type="submit" value="Registrar Frequência">
+        </div>
+    </form>
+
+    <h3 style="text-align: center;">Dados Registrados</h3>
+    <table id="dadosRegistrados" style="width: 80%; margin: auto;">
+        <thead>
+            <tr>
+                <th>Registro de Frequência</th>
+                <th>Turma/Grupo</th>
+                <th>Disciplina</th>
+                <th>Diretoria</th>
+            </tr>
+        </thead>
+        <tbody id="dadosBody">
+        </tbody>
+    </table>
+
+    <script>
+        function salvarDados(event) {
+            event.preventDefault();
+
+            const frequencia = document.getElementById('frequencia').value;
+            const turma = document.getElementById('turma').value;
+            const disciplina = document.getElementById('disciplina').value;
+            const diretoria = document.getElementById('diretoria').value;
+
+            const dados = { frequencia, turma, disciplina, diretoria };
+
+            let registros = JSON.parse(localStorage.getItem('registros')) || [];
+
+            registros.push(dados);
+
+            localStorage.setItem('registros', JSON.stringify(registros));
+
+            mostrarDados();
+
+            document.getElementById('frequenciaForm').reset();
+        }
+
+        function mostrarDados() {
+            const dadosBody = document.getElementById('dadosBody');
+            dadosBody.innerHTML = '';
+
+            const registros = JSON.parse(localStorage.getItem('registros')) || [];
+
+            registros.forEach((registro, index) => {
+                const row = dadosBody.insertRow(index);
+                row.insertCell(0).innerHTML = registro.frequencia;
+                row.insertCell(1).innerHTML = registro.turma;
+                row.insertCell(2).innerHTML = registro.disciplina;
+                row.insertCell(3).innerHTML = registro.diretoria;
+            });
+        }
+
+        document.getElementById('frequenciaForm').addEventListener('submit', salvarDados);
+
+        window.onload = mostrarDados;
+    </script>
+
+    <footer id="footerfinalform"><hr id="hrfinalform">
+    <p>© 2024 - Tech Educa. Desenvolvedores <a href="http://github.com/LucasFeitosa18" target="_blank">Lucas Feitosa</a>, <a href="http://instagram.com/matheuslim390" target="_blank">Matheus</a>, <a href="http://instagram.com/eduardo.cecs" target="_blank">Carlos</a> e <a href="http://instagram.com/caaauanzin" target="_blank">Cauan</a> do Curso de Desenvolvimento de Sistemas para Web do IFB.</p>
+    </footer>
+
+</body>
+</html>

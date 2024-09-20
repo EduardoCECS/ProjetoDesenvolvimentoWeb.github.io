@@ -1,0 +1,791 @@
+@media screen and (max-width: 1440px){
+  #logo{
+    margin-left: 120px;
+  }
+
+  .text-image-container .side-image {
+    max-width: 300px;
+    height: auto;
+    margin: 0;
+  }
+
+  .header-content h1{
+    font-size: 60px;
+    white-space: nowrap;
+    margin-left: -80px;
+  }
+
+  hr{
+    width: 100%;
+  }
+
+  p#indextexto{
+    font-size: 24px;
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 80px;
+  }
+
+  button.carousel-control-next .carousel-control-next-icon {
+    position: absolute;
+  }
+
+  button.carousel-control-next {
+    width: 20px;
+    height: 20px;
+    margin-right: -20px;
+    margin-top: 170px;
+  }
+
+  .card{
+    width: 190px;
+    margin: 10px;
+  }
+
+  div.col-md-3{
+    flex: 1 1 calc(15% - 10px);
+    margin-left: 50px;
+  }
+
+  footer#footerfinalform{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+}
+
+@media screen and (max-width: 1024px){
+  #logo{
+    margin-left: 350px;
+  }
+
+  .header-content h1{
+    font-size: 40px;
+    white-space: nowrap;
+    margin-left: -180px;
+  }
+
+  .text-image-container .side-image {
+    max-width: 400px;
+    height: auto;
+    margin: 0;
+  }
+
+  hr{
+    width: 100%;
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 100px;
+  }
+
+  button.carousel-control-next .carousel-control-next-icon {
+    position: absolute;
+  }
+
+  button.carousel-control-next {
+    width: 20px;
+    height: 20px;
+    margin-right: -20px;
+    margin-top: 170px;
+  }
+
+  .card{
+    width: 170px;
+    margin: -5px;
+  }
+
+  footer#footerfinalform{
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 768px){
+
+  html{
+    overflow-x: hidden;
+  }
+
+  #logo{
+    margin-left: 360px;
+  }
+
+  .text-image-container .side-image {
+    max-width: 50%;
+    height: 900px;
+    margin-left: 20px;
+  }
+
+  hr{
+    width: 100%;
+  }
+
+  .header-content h1{
+    font-size: 37px;
+    white-space: nowrap;
+    margin-left: -280px;
+  }
+
+  #frequenciaForm{
+    margin-right: 80px;
+    margin-left: 80px;
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 120px;
+  }
+
+  .carousel-control-next .carousel-control-next-icon {
+    right: 0; 
+    margin-right: 120px;
+  }
+
+  button.carousel-control-next {
+    width: 20px;
+    height: 20px;
+    margin-right: -155px;
+    margin-top: 170px;
+  }
+
+  .card{
+    width: 160px;
+    margin: -5px;
+  }
+
+  footer#footerfinalform{
+    width: 99%;
+  }
+
+}
+
+@media screen and (max-width: 425px){
+  #logo{
+    margin-left: 320px;
+  }
+
+  nav {
+    width: -20px;
+  }
+
+  .text-image-container .side-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
+  .text-image-container{
+    flex-direction: column;
+  }
+
+  .header-content h1{
+    font-size: 19px;
+    white-space: nowrap;
+    margin-left: -300px;
+  }
+
+  #titulo2{
+    font-size: 20px;
+    white-space: nowrap;
+  }
+
+  #frequenciaForm{
+    margin-right: 5px;
+    margin-left: 8px;
+  }
+
+  p#indextexto{
+    font-size: 18px;
+  }
+
+  p#premiostexto {
+    text-align: justify;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+
+  div#sobretexto{
+    font-size: 19px;
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 210px;
+  }
+
+  .carousel-control-next .carousel-control-next-icon {
+    right: 0; 
+    margin-right: 140px;
+  }
+
+  .card{
+    width: 130px;
+  }
+
+  div.col-md-3{
+    flex: 1 1 calc(25% - 20px);
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  .sclogin{
+    width: 400px;
+  }
+
+}
+
+@media screen and (max-width: 375px){
+  #logo{
+    margin-left: 310px;
+  }
+
+  #anav {
+    width: -100px;
+    margin-left: -5px;
+    margin-right: -12px;
+  }
+
+  hr{
+    width: 105%;
+  }
+
+  .text-image-container .side-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
+  .text-image-container{
+    flex-direction: column;
+  }
+
+  .header-content h1{
+    font-size: 16px;
+    white-space: nowrap;
+    margin-left: -310px;
+  }
+
+  #titulo2{
+    font-size: 20px;
+    white-space: nowrap;
+  }
+
+  #frequenciaForm{
+    margin-right: 15px;
+    margin-left: 3px;
+  }
+
+  p#premiostexto {
+    text-align: justify;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+
+  p#sobretexto{
+    font-size: 20px;
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 210px;
+  }
+
+  .carousel-control-next .carousel-control-next-icon {
+    right: 0; 
+    margin-right: 150px;
+  }
+
+  .card{
+    width: 100px;
+  }
+
+  div.col-md-3{
+    flex: 1 1 calc(50% - 20px);
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  .sclogin{
+    width: 350px;
+  }
+
+  label{
+    font-size: 90%;
+    margin-left: 40px;
+  }
+
+  .form-control{
+    margin-left: 5px;
+    margin-right: 5px;
+    max-width: 300px;
+  }
+
+  #botao-cadastrar{
+    width: 300px;
+  }
+
+  #bt-form{
+    width: 300px;
+  }
+
+}
+
+@media screen and (max-width: 320px){
+  #logo{
+    margin-left: 310px;
+  }
+
+  #anav {
+    width: -100px;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+
+  hr{
+    width: 105%;
+  }
+
+  .text-image-container .side-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
+  .text-image-container{
+    flex-direction: column;
+  }
+
+  .header-content h1{
+    font-size: 13.5px;
+    white-space: nowrap;
+    margin-left: -330px;
+  }
+
+  #titulo2{
+    font-size: 17px;
+    white-space: nowrap;
+  }
+
+  #frequenciaForm{
+    max-width: 320px; 
+    width: 100%; 
+    margin: 0 auto; 
+  }
+
+  table {
+    width: 100%; 
+    border-collapse: collapse; 
+  }
+
+  th, td {
+    padding: 5px; 
+    text-align: left; 
+    font-size: 13px; 
+  }
+
+  h3 {
+    margin-top: 10px;
+  }
+
+  p#premiostexto {
+    text-align: justify;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+
+  p#sobretexto{
+    font-size: 20px;
+  }
+
+  .carousel-container {
+    overflow: hidden; 
+  }
+
+  .card {
+    margin: -2px -2px; 
+    width: 96px;
+    flex: 0 0 96px;
+  }
+
+  .card-img-container {
+    width: 100%; 
+    overflow: hidden; 
+  }
+
+  .card-img-top {
+    width: 100%; 
+    height: auto; 
+  }
+
+  .carousel-item {
+    display: flex; 
+    flex-wrap: nowrap; 
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 30px; 
+  }
+
+  .carousel-control-prev .carousel-control-prev-icon {
+    left: 0; 
+    margin-left: 240px;
+  }
+
+  .carousel-control-next .carousel-control-next-icon {
+    right: 0; 
+    margin-right: 140px;
+  }
+
+  .pontos-icon {
+    width: 15px; 
+    vertical-align: middle; 
+  }
+
+  .sclogin{
+    width: 300px;
+  }
+
+  label{
+    font-size: 90%;
+    margin-left: 70px;
+  }
+
+  .form-control{
+    margin-left: 5px;
+    margin-right: 5px;
+    max-width: 280px;
+  }
+
+  #botao-cadastrar{
+    width: 250px;
+  }
+
+  #bt-form{
+    width: 250px;
+  }
+
+}
+
+/* Estilo Index */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+  overflow-x: hidden;
+}
+
+#indextexto {
+  text-align: left;
+  font-size: 27px;
+  margin: 0 0 20px 0; 
+}
+
+.text-image-container {
+  display: flex; 
+  align-items: flex-start; 
+  padding: 20px;
+}
+
+.text-content {
+  flex: 1; 
+}
+
+.side-image {
+  max-width: 50%;
+  height: auto;
+  margin-left: 20px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+
+
+/* Estilo da tabela de frequência */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Estilo Prêmios */
+
+#premiostexto {
+  text-align: justify;
+  width: 80%; 
+  margin: 0 auto;
+  font-size: 39px;
+}
+
+#pontosobre {
+  margin-left: 40px;
+}
+
+/* Estilo Sobre */
+
+#titulo2 {
+  text-align: center;
+}
+
+#sobretexto {
+  text-align: justify;
+  width: 80%; 
+  margin: 0 auto;
+  font-size: 39px;
+}
+
+#sobretexto::after {
+  content: "";
+  display: block;
+  height: 1px; 
+  margin-top: 1em; 
+}
+
+/* Estilo Premios */
+
+.card {
+  border: none;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card-img-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.pontos-icon {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
+.carousel-inner {
+  display: flex;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.carousel-item .card {
+  flex: 1;
+  margin: 0 10px;
+  height: 350px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+  background-color: rgba(0,0,0,0.2); 
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  border-radius: 50%;
+  padding: 10px; 
+  background-color: #000;
+}
+
+.carousel-control-prev {
+  left: 0; 
+  margin-left: -130px;
+}
+
+.carousel-control-next {
+  right: 0; 
+  margin-right: -130px; 
+}
+
+/* Estilo Login e a nav */
+
+#footerfinalform {
+  text-align: center;
+  padding: 5px 0;
+  border: none;
+  margin: 0;
+  padding: -0;
+  width: 100%;
+  border-top: 3px solid #000;
+}
+
+#hrfinalform {
+  border: none;
+  border-top: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+} 
+
+#logo {
+  width: 90px;
+  height: auto;
+  position: relative;
+  left: -320px;
+  top: 5px;
+}
+
+.h1-titulo {
+  font-family: sans-serif;
+  font-size: 40px;
+  margin: 0; 
+  padding: 0; 
+}
+
+.header-content {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  gap: 20px; 
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+#imgnav {
+  width: 25px;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+#anav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+#anav:hover {
+  background-color: #e0e0e0;
+  border-color: #888;
+}
+
+nav a {
+  text-align: center;
+  font-size: 14px;
+}
+
+.sclogin {
+  background-color: #ccc;
+  border-radius: 10px;
+  padding: 50px;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sclogin h2 {
+  margin-bottom: 1.5rem;
+}
+
+label {
+  position: relative;
+  right: 160px;
+}
+
+.sclogin input {
+  width: 350px;
+  position: relative;
+}
+
+#bt-login {
+  margin-top: 1rem;
+}
+
+.senha {
+  position: relative;
+}
+
+.senha input {
+  width: calc(100% - 50px); 
+}
+
+.senha .iconesenha {
+  position: absolute;
+  right: 10px;
+  top: 65%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  width: 37px;
+  height: auto;
+}
+
+/* Estilo Cadastro e o footer final de algumas paginas*/
+
+#footerfinal, #hrfinal {
+  text-align: center;
+  padding: 20px;
+  position: fixed; 
+  bottom: 0; 
+  left: 0;
+  width: 100%;
+  border-top: 3px solid #000;
+}
+
+#hrfinal {
+  border-top: 0;
+  margin: 0; 
+  padding: 0; 
+  width: 100%; 
+} 

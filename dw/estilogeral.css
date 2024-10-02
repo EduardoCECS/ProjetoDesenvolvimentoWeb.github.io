@@ -78,6 +78,10 @@
     width: 100%;
   }
 
+  p#indextexto{
+    font-size: 25px;
+  }
+
   .carousel-control-prev .carousel-control-prev-icon {
     left: 0; 
     margin-left: 100px;
@@ -653,16 +657,12 @@ input[type="submit"]:hover {
 #footerfinalform {
   text-align: center;
   padding: 5px 0;
-  border: none;
-  margin: 0;
-  padding: -0;
   width: 100%;
   border-top: 3px solid #000;
 }
 
 #hrfinalform {
   border: none;
-  border-top: 0;
   margin: 0;
   padding: 0;
   width: 100%;

@@ -1,0 +1,81 @@
+# Licença Proprietária para o Sistema
+
+## Termos de Licença
+
+Esta Licença Proprietária ("Licença") é concedida por Carlos Eduardo ("Licenciante") a você ("Licenciado"), sob os seguintes termos e condições:
+
+### 1. Concessão de Licença
+
+O Licenciante concede ao Licenciado uma licença não exclusiva, não transferível e revogável para acessar e utilizar o sistema TechEduca ("Sistema") apenas para fins comerciais, conforme previamente acordado entre as partes.
+
+### 2. Restrições
+
+O Licenciado não poderá:
+- a. Copiar, modificar, distribuir, vender ou de qualquer forma transferir o Sistema ou quaisquer partes dele sem a autorização prévia por escrito do Licenciante.
+- b. Realizar qualquer uso do Sistema sem a autorização prévia por escrita do Licenciante.
+- c. Realizar engenharia reversa ou tentar acessar o código-fonte do Sistema.
+- d. Sublicenciar, transferir ou ceder seus direitos sob esta Licença a terceiros sem a autorização prévia por escrita do Licenciante.
+
+### 3. Pagamento
+
+O Licenciado concorda em pagar ao Licenciante a quantia de 100.000 reais para o acesso ao Sistema, conforme acordado. O Licenciante reserva-se o direito de modificar o valor para o acesso ao Sistema, notificando o Licenciado com pelo menos 30 dias de antecedência. O pagamento poderá ser realizado através de transferência bancária, cartão de crédito, boleto bancário ou Pix. O pagamento deverá ser realizado em até 30 dias após a aceitação desta Licença. Esta Licença terá validade de 1 ano a partir da data de pagamento, com opção de renovação anual mediante pagamento de uma taxa de renovação de 80.000.
+
+### 4. Propriedade Intelectual
+
+O Licenciado reconhece que todos os direitos, títulos e interesses no Sistema, incluindo todos os direitos de propriedade intelectual, permanecem com o Licenciante. Esta Licença não concede ao Licenciado nenhum direito de propriedade sobre o Sistema.
+
+### 5. Isenção de Responsabilidade
+
+O Sistema é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização ou adequação a um propósito específico. O Licenciante não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais que possam surgir do uso ou da incapacidade de usar o Sistema.
+
+### 6. Limitação de Responsabilidade
+
+A responsabilidade total do Licenciante, em qualquer circunstância, não excederá o valor pago pelo Licenciado ao Licenciante sob esta Licença.
+
+### 7. Rescisão
+
+Esta Licença poderá ser rescindida pelo Licenciante a qualquer momento, caso o Licenciado não cumpra os termos aqui estabelecidos, incluindo, mas não se limitando a, não pagamento ou violação de qualquer outra cláusula. Ao término da Licença, o Licenciado deverá parar de usar o Sistema e destruir todas as cópias dele.
+
+### 8. Notificações
+
+Todas as notificações referentes a esta Licença deverão ser feitas por escrito e enviadas por e-mail ou correspondência registrada para os endereços fornecidos pelas partes.
+
+### 9. Confidencialidade
+
+O Licenciado concorda em manter em confidencialidade todas as informações relacionadas ao Sistema, incluindo, mas não se limitando a, código-fonte, documentação e especificações técnicas.
+
+### 10. Indenização
+
+O Licenciado concorda em indenizar e isentar o Licenciante de quaisquer reivindicações, perdas, danos ou despesas decorrentes de qualquer violação dos termos desta Licença.
+
+### 11. Revisão de Termos
+
+O Licenciante reserva-se o direito de revisar os termos desta Licença, notificando o Licenciado com pelo menos 30 dias de antecedência sobre quaisquer alterações.
+
+### 12. Força Maior
+
+Nenhuma das partes será responsável por atrasos ou falhas no cumprimento de suas obrigações decorrentes de eventos de força maior, incluindo, mas não se limitando a, desastres naturais, guerras, atos de terrorismo ou quaisquer outras circunstâncias além do controle razoável das partes.
+
+### 13. Aceitação dos Termos
+
+A aceitação desta Licença implica na concordância total e irrestrita com todos os termos e condições aqui estabelecidos.
+
+### 14. Disposições Gerais
+
+Se qualquer disposição desta Licença for considerada inválida ou inexequível, as demais disposições permanecerão em pleno vigor e efeito.
+
+### 15. Jurisdição
+
+Para a resolução de quaisquer controvérsias oriundas desta Licença, as partes elegem o foro da Comarca de Brasília, Distrito Federal.
+
+### 16. Não Exclusividade
+
+O Licenciante reserva-se o direito de conceder licenças semelhantes a outras partes.
+
+### 17. Lei Aplicável
+
+Esta Licença será regida e interpretada de acordo com as leis da República Federativa do Brasil. Fica eleito o foro da comarca de Distrito Federal, para dirimir quaisquer controvérsias oriundas desta Licença.
+
+### 18. Contato
+
+Para qualquer dúvida ou consulta sobre esta Licença, o Licenciado pode entrar em contato com o Licenciante através do e-mail: carloscarvalhoxp@gmail.com.

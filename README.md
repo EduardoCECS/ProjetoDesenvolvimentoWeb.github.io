@@ -57,7 +57,8 @@ node a.js
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Estrutura do Projeto
+## **Estrutura do Projeto**
+
 index.html: Página principal do site.
 frequência.html: Página onde registra as frequências.
 prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
@@ -69,20 +70,31 @@ a.js: Código javascript onde estão os códigos para servidor localhost.
 j.js: Código javascript onde estão os scripts das funcionalidades das páginas.
 Img: Contém as imagens utilizadas no projeto.
 Bootstrap-5.0.2-dist: Contém os arquivos de estilização e funcionalidades.
-Contribuição
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Contribuição**
+
 Se você deseja contribuir para este projeto, siga os seguintes passos:
 
-Faça um fork do repositório.
-Crie uma branch para sua feature ou correção (git checkout -b minha-feature).
-Faça commit de suas alterações (git commit -am 'Adiciona nova feature').
-Envie para o controle remoto (git push origin minha-feature).
-Abra um pull request no GitHub.
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature ou correção (git checkout -b minha-feature).
+3. Faça commit de suas alterações (git commit -am 'Adiciona nova feature').
+4. Envie para o controle remoto (git push origin minha-feature).
+5. Abra um pull request no GitHub.
 
-Licença
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Licença**
+
 Este projeto é protegido por uma licença proprietária. O uso do código, cópia ou modificação do sistema sem autorização prévia do autor é estritamente proibido. Para mais informações sobre os termos da licença, consulte o arquivo LICENSE incluído neste repositório.
 
-Contato
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Contato**
+
 Para mais informações, você pode entrar em contato com o desenvolvedor:
 
-Carlos Eduardo: carloscarvalhoxp@gmail.com
-Muito obrigado!
+. **Carlos Eduardo:** carloscarvalhoxp@gmail.com
+
+# **Muito obrigado!**

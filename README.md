@@ -60,17 +60,17 @@ node a.js
 
 ## **Estrutura do Projeto**
 
-index.html: Página principal do site.
-frequência.html: Página onde registra as frequências.
-prêmios.html: Página onde o aluno possa ver os prêmios e resgatar.
-sobre.html: Página onde descreve sobre nós.
-login.html: Página onde o aluno faz o login.
-cadastro.html: Página onde o aluno faz o cadastro caso não tenha conta no site.
-estilogeral.css: Contém os arquivos de estilo em geral.
-a.js: Código javascript onde estão os códigos para servidor localhost.
-j.js: Código javascript onde estão os scripts das funcionalidades das páginas.
-Img: Contém as imagens utilizadas no projeto.
-Bootstrap-5.0.2-dist: Contém os arquivos de estilização e funcionalidades.
+- **index.html:** Página principal do site.
+- **frequência.html:** Página onde registra as frequências.
+- **prêmios.html:** Página onde o aluno possa ver os prêmios e resgatar.
+- **sobre.html:** Página onde descreve sobre nós.
+- **login.html:** Página onde o aluno faz o login.
+- **cadastro.html:** Página onde o aluno faz o cadastro caso não tenha conta no site.
+- **estilogeral.css:** Contém os arquivos de estilo em geral.
+- **a.js:** Código javascript onde estão os códigos para servidor localhost.
+- **j.js:** Código javascript onde estão os scripts das funcionalidades das páginas.
+- **Img:** Contém as imagens utilizadas no projeto.
+- **Bootstrap-5.0.2-dist:** Contém os arquivos de estilização e funcionalidades.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -96,6 +96,6 @@ Este projeto é protegido por uma licença proprietária. O uso do código, cóp
 
 Para mais informações, você pode entrar em contato com o desenvolvedor:
 
-. **Carlos Eduardo:** carloscarvalhoxp@gmail.com
+- **Carlos Eduardo:** carloscarvalhoxp@gmail.com
 
 # **Muito obrigado!**

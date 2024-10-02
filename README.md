@@ -20,7 +20,7 @@ Este é o meu primeiro projeto que inclui responsividade. É possível que haja 
 
 ## **Funcionalidades**
 
-. **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato com o site.
+- **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato com o site.
 Tela do Sobre: Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
 Tela de Frequência: Página para registrar as frequências.
 Tela de Prêmios: Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.

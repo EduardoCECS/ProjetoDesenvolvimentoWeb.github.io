@@ -21,32 +21,43 @@ Este é o meu primeiro projeto que inclui responsividade. É possível que haja 
 ## **Funcionalidades**
 
 - **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato com o site.
-Tela do Sobre: Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
-Tela de Frequência: Página para registrar as frequências.
-Tela de Prêmios: Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.
-Tela de Login: Interface para autenticação de alunos.
-Tela de Cadastro: Interface para cadastro caso o aluno não tenha conta.
-Design Responsivo: Adaptável a diferentes tamanhos de tela para uma melhor experiência do usuário.
-Tecnologias Utilizadas
-HTML5: Estrutura do conteúdo da página
-CSS: Estilização e design responsivo
-Javascript: Funcionalidades interativas
-Bootstrap: Estilização e conteúdo da página
-Node JS/Express: Onde está hospedado
-Como usar
+- **Tela do Sobre:** Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
+- **Tela de Frequência:** Página para registrar as frequências.
+- **Tela de Prêmios:** Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.
+- **Tela de Login:** Interface para autenticação de alunos.
+- **Tela de Cadastro:** Interface para cadastro caso o aluno não tenha conta.
+- **Design Responsivo:** Adaptável a diferentes tamanhos de tela para uma melhor experiência do usuário.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Tecnologias Utilizadas**
+
+- **HTML5:** Estrutura do conteúdo da página
+- **CSS:** Estilização e design responsivo
+- **Javascript:** Funcionalidades interativas
+- **Bootstrap:** Estilização e conteúdo da página
+- **Node JS/Express:** Onde está hospedado
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Como usar**
+
 Para usar o Tech Educa, siga estas etapas:
 
-Baixe o arquivo ZIP do GitHub.
-Descompacte o arquivo ZIP em seu computador. Isso criará uma pasta com os arquivos do projeto.
-Coloque a pasta descompactada na sua área de trabalho para facilitar o acesso.
-Abra o Windows PowerShell (ou outra interface de linha de comando).
-No PowerShell (ou em outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
-bash
-Copiar código
-cd desktop
-cd ProjetoDesenvolvimentoWeb.github.io-main
-node a.js
-Após executar esses comandos, o PowerShell (ou em outra interface) fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
+1. Baixe o arquivo ZIP do GitHub.
+2. Descompacte o arquivo ZIP em seu computador. Isso criará uma pasta com os arquivos do projeto.
+3. Coloque a pasta descompactada na sua área de trabalho para facilitar o acesso.
+4. Abra o Windows PowerShell (ou outra interface de linha de comando).
+5. No PowerShell (ou em outra interface), execute os seguintes comandos para acessar a pasta e iniciar o projeto:
+```
+  Copiar código
+  cd desktop
+  cd ProjetoDesenvolvimentoWeb.github.io-main
+  node a.js
+6. Após executar esses comandos, o PowerShell (ou em outra interface) fornecerá um endereço. Copie e cole esse endereço no seu navegador para visualizar o projeto.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Estrutura do Projeto
 index.html: Página principal do site.
 frequência.html: Página onde registra as frequências.

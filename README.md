@@ -1,6 +1,6 @@
 # **TECH EDUCA**
 
-Bem-vindo ao projeto Tech Educa!!
+**Bem-vindo ao projeto Tech Educa!!**
 
 Nosso país tem visto cada vez mais a evasão escolar e por isso decidi criar a **TECH EDUCA**, com o objetivo de aumentar cada vez mais a taxa de frequência escolar dos alunos. E para deixar o aluno mais atento e aumentar cada vez mais o objetivo de ir bem nas matérias, criei a aba de prêmios, onde o estudante que atingir uma certa quantidade de pontuação poderá retirar o seu prêmio. Desenvolvido como trabalho final para o curso de Desenvolvimento de Sistemas para Web no Instituto Federal de Brasília - Campus Brasília, com orientação da professora Kadidja Oliveira.
 

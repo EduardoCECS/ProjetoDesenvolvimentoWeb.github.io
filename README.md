@@ -1,10 +1,16 @@
 ##**TECH EDUCA**
+
 Bem-vindo ao projeto Tech Educa!!
 
 Nosso país tem visto cada vez mais evasões escolares e por isso decidimos criar a TECH EDUCA, com o objetivo de aumentar cada vez mais a taxa de frequência escolar dos alunos. E para deixar os alunos mais atentos e aumentar cada vez mais o objetivo de ir bem nas matérias, criamos a aba de prêmios, onde os estudantes que atingirem uma certa quantidade de pontuação poderão retirar o seu prêmio. Desenvolvido como trabalho final para o curso de Desenvolvimento de Sistemas para Web no Instituto Federal de Brasília - Campus Brasília, com orientação da professora Kadidja Oliveira.
 
-Descrição
-A TechEduca é uma empresa inovadora com um propósito claro: transformar a educação no Distrito Federal através da tecnologia. Nossa missão é aumentar a taxa de frequência escolar dos alunos da rede pública para mais de 80% até o final do ano letivo. Para alcançar esse objetivo, estamos desenvolvendo uma plataforma interativa e motivacional que visa engajar os estudantes, incentivando a participação ativa através de prêmios e recompensas.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#**Descrição**
+
+A **TechEduca** é uma empresa inovadora com um propósito claro: transformar a educação no Distrito Federal através da tecnologia. Nossa missão é aumentar a taxa de frequência escolar dos alunos da rede pública para mais de 80% até o final do ano letivo. Para alcançar esse objetivo, estamos desenvolvendo uma plataforma interativa e motivacional que visa engajar os estudantes, incentivando a participação ativa através de prêmios e recompensas.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Observação
 Este é o meu primeiro projeto que inclui responsividade. É possível que haja alguns elementos que não estejam 100% corretos. Caso você identifique algo que possa ser melhorado, peço que entre em contato comigo pelo e-mail que se encontra ao final deste README. Alternativamente, você também pode realizar um fork do projeto e me notificar por e-mail. Agradeço antecipadamente pela colaboração.

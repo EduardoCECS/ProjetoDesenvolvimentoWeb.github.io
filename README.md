@@ -12,11 +12,15 @@ A **TechEduca** é uma empresa inovadora com um propósito claro: transformar a 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Observação
+## **Observação**
+
 Este é o meu primeiro projeto que inclui responsividade. É possível que haja alguns elementos que não estejam 100% corretos. Caso você identifique algo que possa ser melhorado, peço que entre em contato comigo pelo e-mail que se encontra ao final deste README. Alternativamente, você também pode realizar um fork do projeto e me notificar por e-mail. Agradeço antecipadamente pela colaboração.
 
-Funcionalidades
-Tela do Index: Página inicial, onde o usuário tem seu primeiro contato com o site.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Funcionalidades**
+
+. **Tela do Index:** Página inicial, onde o usuário tem seu primeiro contato com o site.
 Tela do Sobre: Página onde o usuário conhece a origem do projeto e quem o desenvolveu.
 Tela de Frequência: Página para registrar as frequências.
 Tela de Prêmios: Página onde o aluno pode ver os prêmios disponíveis e resgatá-los.

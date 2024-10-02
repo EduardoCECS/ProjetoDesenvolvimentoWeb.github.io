@@ -1,4 +1,4 @@
-##**TECH EDUCA**
+# **TECH EDUCA**
 
 Bem-vindo ao projeto Tech Educa!!
 
@@ -6,7 +6,7 @@ Nosso país tem visto cada vez mais evasões escolares e por isso decidimos cria
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#**Descrição**
+## **Descrição**
 
 A **TechEduca** é uma empresa inovadora com um propósito claro: transformar a educação no Distrito Federal através da tecnologia. Nossa missão é aumentar a taxa de frequência escolar dos alunos da rede pública para mais de 80% até o final do ano letivo. Para alcançar esse objetivo, estamos desenvolvendo uma plataforma interativa e motivacional que visa engajar os estudantes, incentivando a participação ativa através de prêmios e recompensas.
 
